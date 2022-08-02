@@ -1,0 +1,23 @@
+{
+  "name": "study_cypress",
+  "version": "1.0.0",
+  "description": "Study cypress project",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx run cypress open",
+    "cy:run": "npx run cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarachelaraujo/study_cypress.git"
+  },
+  "author": "Ana Carneiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anarachelaraujo/study_cypress/issues"
+  },
+  "homepage": "https://github.com/anarachelaraujo/study_cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  }
+}
